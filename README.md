@@ -6,7 +6,3 @@
 - Admin should be allowed to show the leaderboard to everyone
 - Users should be allowed to answer the questions
 - Users just need to poll the server for next question, no need for it to be realtime
-
-// websockets in house
-
-tech stack - react tailwind, nodejs, sockets.
